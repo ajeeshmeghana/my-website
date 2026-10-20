@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AAM ELVIN GLOBAL SERVICES - Travel & Documentation Services</title>
+    <title>AMELVIN GLOBAL SERVICES - Travel & Documentation Services</title>
     <style>
         * {
             box-sizing: border-box;
@@ -157,69 +157,68 @@
         
         <!-- About Section -->
         <div class="about-box">
-            <h2>ആം എൽവിൻ ഗ്ലോബൽ സർവീസസ്</h2>
+            <h2>AMELVIN GLOBAL SERVICES</h2>
             <p style="margin-top: 10px; font-size: 1.1em;">
-                ലോകത്തെമ്പാടുമുള്ള നിങ്ങളുടെ യാത്രാ ആവശ്യങ്ങൾക്കും ഡോക്യുമെന്റേഷൻ സർവീസുകൾക്കും വിശ്വസിക്കാവുന്ന സ്ഥാപനം. സുരക്ഷിതവും വേഗത്തിലുമുള്ള സേവനങ്ങൾ ഞങ്ങൾ ഉറപ്പുനൽകുന്നു.
-            </p>
+                A trusted agency for your travel needs and documentation services worldwide. We guarantee safe and fast services. 
         </div>
 
         <!-- Services Section -->
         <div class="center-wrapper">
-            <h2 class="section-title">ഞങ്ങളുടെ പ്രധാന സേവനങ്ങൾ (Our Services)</h2>
+            <h2 class="section-title">Our Main Services (Our Services)</h2>
         </div>
         
         <div class="services-grid">
             <div class="card">
                 <span class="card-icon">✈️</span>
                 <h3>Flight Ticket Booking</h3>
-                <p>ആഭ്യന്തര, അന്താരാഷ്ട്ര ഫ്ലൈറ്റ് ടിക്കറ്റുകൾ ഏറ്റവും കുറഞ്ഞ നിരക്കിൽ ബുക്ക് ചെയ്തു നൽകുന്നു.</p>
+                <p>We book domestic and international flight tickets at the lowest rates..</p>
             </div>
             
             <div class="card">
                 <span class="card-icon">🚂</span>
                 <h3>Train Ticket Booking</h3>
-                <p>ഇന്ത്യയിലുടനീളമുള്ള ട്രെയിൻ ടിക്കറ്റ് ബുക്കിംഗുകൾ വേഗത്തിൽ ചെയ്തു നൽകുന്നു.</p>
+                <p>Train ticket bookings across India were completed quickly.</p>
             </div>
             
             <div class="card">
                 <span class="card-icon">🚌</span>
                 <h3>Bus Ticket Booking</h3>
-                <p>എല്ലാ പ്രമുഖ റൂട്ടുകളിലേക്കുമുള്ള എസി / നോൺ-എസി ബസ് ടിക്കറ്റ് ബുക്കിംഗ്.</p>
+                <p>AC/non-AC bus ticket booking for all major routes.</p>
             </div>
 
             <div class="card">
                 <span class="card-icon">🛂</span>
                 <h3>Passport Services</h3>
-                <p>പുതിയ പാസ്‌പോർട്ട് അപേക്ഷ, റീ-ഇഷ്യൂ, തത്കാൽ സേവനങ്ങൾ എളുപ്പത്തിൽ നേടാം.</p>
+                <p>You can easily avail services for new passport applications, re-issuance, and Tatkaal processing.</p>
             </div>
 
             <div class="card">
                 <span class="card-icon">🪪</span>
                 <h3>Driving License</h3>
-                <p>ഡ്രൈവിംഗ് ലൈസൻസ് അപേക്ഷകളും അനുബന്ധ സേവനങ്ങളും ചെയ്തു നൽകുന്നു.</p>
+                <p>Driving licenses, International Driving Permits, and related services are available..</p>
             </div>
 
             <div class="card">
                 <span class="card-icon">📋</span>
                 <h3>Miscellaneous Services</h3>
-                <p>മറ്റ് വിവിധ ഡോക്യുമെന്റേഷൻ, അറ്റസ്റ്റേഷൻ, യാത്രാ അനുബന്ധ സേവനങ്ങൾ.</p>
+                <p>Various other documentation, attestation, and travel-related services.</p>
             </div>
         </div>
 
         <!-- Contact Section -->
         <div class="contact-card">
-            <h2>ബുക്കിംഗിനും കൂടുതൽ വിവരങ്ങൾക്കും ബന്ധപ്പെടുക</h2>
+            <h2>For bookings and further information, please contact</h2>
             <p style="margin-top: 5px;">Contact Us For Booking & Enquiries</p>
             
             <div class="phone-numbers">
                 <!-- ഒന്നാമത്തെ ഫോൺ നമ്പർ താഴെ നൽകിയിരിക്കുന്ന href="tel:+91XXXXXXXXXX" ൽ തിരുത്തുക -->
-                <a href="tel:+910000000000" class="btn-call">
-                    📞 Call / WhatsApp: +91 00000 00000
+                <a href="tel:+917994010383" class="btn-call">
+                    📞 Call / WhatsApp: +917902410383
                 </a>
                 
                 <!-- രണ്ടാമത്തെ ഫോൺ നമ്പർ താഴെ നൽകിയിരിക്കുന്ന href="tel:+91XXXXXXXXXX" ൽ തിരുത്തുക -->
-                <a href="tel:+910000000000" class="btn-call" style="background-color: #0275d8;">
-                    📞 Call / WhatsApp: +91 00000 00000
+                <a href="tel:+917902410383" class="btn-call" style="background-color: #0275d8;">
+                    📞 Call / WhatsApp: +917994010383
                 </a>
             </div>
         </div>
@@ -227,7 +226,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2026 AAM ELVIN GLOBAL SERVICES. All Rights Reserved.</p>
+        <p>&copy; 2026 AMELVIN GLOBAL SERVICES. All Rights Reserved.</p>
     </footer>
 
 </body>
